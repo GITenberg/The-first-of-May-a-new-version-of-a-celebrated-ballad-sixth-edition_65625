@@ -1,11 +1,16 @@
 _repo: The-first-of-May-a-new-version-of-a-celebrated-ballad-sixth-edition_65625
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65625-h/images/cover.jpg
 creator:
   author:
     agent_name: Drury, Anna Harriet
     gutenberg_agent_id: '53436'
     url: http://www.gutenberg.org/2009/agents/53436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65625#The-first-of-May-a-new-version-of-a-celebrated-ballad-sixth-edition
 gutenberg_issued: '2021-06-16'
 gutenberg_type: Text
 identifiers:
